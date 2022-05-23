@@ -1,0 +1,11 @@
+debug/deletevertexdialog.o
+debug/editvertexdialog.o
+debug/graphpainter.o
+debug/main.o
+debug/mainwindow.o
+debug/myopenglwidget.o
+debug/pivot.o
+debug/moc_deletevertexdialog.o
+debug/moc_editvertexdialog.o
+debug/moc_mainwindow.o
+debug/moc_myopenglwidget.o

@@ -1,0 +1,11 @@
+release/deletevertexdialog.o
+release/editvertexdialog.o
+release/graphpainter.o
+release/main.o
+release/mainwindow.o
+release/myopenglwidget.o
+release/pivot.o
+release/moc_deletevertexdialog.o
+release/moc_editvertexdialog.o
+release/moc_mainwindow.o
+release/moc_myopenglwidget.o
